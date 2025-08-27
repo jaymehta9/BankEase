@@ -35,7 +35,7 @@ The project emphasizes:
 
 Visual representation of BankEase’s structure and workflow:
 
-![Bank System Diagram](https://raw.githubusercontent.com/<username>/<repo>/main/Database/bank-application-diagram.png)
+![Bank System Diagram](Database/bank-application-diagram.png)
 
 ---
 
