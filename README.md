@@ -30,11 +30,12 @@ The project emphasizes:
 - **Robust exception handling** with custom business-rule exceptions  
 
 ---
+
 ## 🖼️ Visual Representation
 
 Visual representation of BankEase’s structure and workflow:
 
-<img src="Database/bank-application-diagram.png" alt="Bank System Diagram" width="600">
+![Bank System Diagram](https://raw.githubusercontent.com/<username>/<repo>/main/Database/bank-application-diagram.png)
 
 ---
 
@@ -103,4 +104,3 @@ Visual representation of BankEase’s structure and workflow:
 7. **Deployment**
    - Packaged as a runnable JAR or Docker container  
    - Can be deployed to a remote MySQL instance (Railway, PlanetScale, etc.)  
-
