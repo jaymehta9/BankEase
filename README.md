@@ -30,12 +30,12 @@ The project emphasizes:
 - **Robust exception handling** with custom business-rule exceptions  
 
 ---
-
 ## 🖼️ Visual Representation
 
 Visual representation of BankEase’s structure and workflow:
 
-![Bank System Diagram](BANKING-SYSTEM-APPLICATION/Database/bank application - diagram.png)
+![Bank System Diagram](Database/bank-application-diagram.png)
+
 
 ---
 
