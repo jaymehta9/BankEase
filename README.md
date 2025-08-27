@@ -34,8 +34,7 @@ The project emphasizes:
 
 Visual representation of BankEase’s structure and workflow:
 
-![Bank System Diagram](Database/bank-application-diagram.png)
-
+<img src="Database/bank-application-diagram.png" alt="Bank System Diagram" width="600">
 
 ---
 
